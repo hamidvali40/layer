@@ -90,5 +90,3 @@ mkdir -p $HOME/.eigenlayer/eigenda/db
 ./run.sh opt-in
 
 docker compose up -d
-
-docker 
