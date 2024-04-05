@@ -84,4 +84,4 @@ cd eigenda-operator-setup
 
 nano .env
 
-mkdir -p $HOME/.eigenlayer/
+mkdir -p $HOME/
