@@ -78,5 +78,4 @@ eigenlayer operator status operator.yaml
 
 cd ~
 
-git clone https://github.com/Layr-Labs/eigenda-operator-setup.git
-
+git clone https://github.com/Layr-Labs/eigenda
