@@ -77,5 +77,3 @@ eigenlayer operator register operator.yaml
 eigenlayer operator status operator.yaml
 
 cd ~
-
-git clone
