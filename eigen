@@ -75,5 +75,3 @@ nano operator.yaml
 eigenlayer operator register operator.yaml
 
 eigenlayer operator status operator.yaml
-
-cd ~
