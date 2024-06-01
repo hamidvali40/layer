@@ -65,6 +65,3 @@ export PATH=$PATH:~/bin
 eigenlayer operator keys create --key-type ecdsa gemgym
 eigenlayer operator keys create --key-type bls gemgym
 
-
-nano operator.yaml
-
