@@ -63,4 +63,3 @@ curl -sSfL https://raw.githubusercontent.com/layr-labs/eigenlayer-cli/master/scr
 export PATH=$PATH:~/bin
 
 eigenlayer operator keys create --key-type ecdsa gemgym
-eigenlayer
